@@ -1,7 +1,7 @@
 
 # SecretsApp 🤫
 
-![SecretsApp Logo](your-logo-url)
+![SecretsApp Logo](https://github.com/MahmoodWebDev/secrets-authentication-oauth2/blob/main/secrets.png)
 
 ## Description
 
